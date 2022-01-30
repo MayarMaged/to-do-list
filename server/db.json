@@ -1,0 +1,373 @@
+{
+  "todos": [
+    {
+      "id": 36,
+      "isCompleted": true,
+      "user": "Mclean Walker",
+      "gender": "female",
+      "name": "Structure the Json.",
+      "description": "JSON should contain a boolean for the status of the task as well as a user name.\r\n",
+      "registered": "2021-03-23T01:21:00 -02:00"
+    },
+    {
+      "id": 35,
+      "isCompleted": false,
+      "user": "Battle Ryan",
+      "gender": "male",
+      "name": "Create an API to get the JSON place holder.",
+      "description": "A second project to be created using json-server package and it represents our server.\r\n",
+      "registered": "2020-03-24T08:30:07 -02:00"
+    },
+    {
+      "id": 34,
+      "isCompleted": true,
+      "user": "Mclean Walker",
+      "gender": "male",
+      "name": "Create the view of the list.",
+      "description": "Show that data is presented correctly.\r\n",
+      "registered": "2021-08-24T03:01:11 -02:00"
+    },
+    {
+      "id": 33,
+      "isCompleted": true,
+      "user": "Sheri Rosales",
+      "gender": "female",
+      "name": "Embed pagination to the list.",
+      "description": "each page should represent only 20 todos, no reference of the pages should be inserted in the JSON.\r\n",
+      "registered": "2014-02-28T04:46:07 -02:00"
+    },
+    {
+      "id": 32,
+      "isCompleted": true,
+      "user": "Battle Ryan",
+      "gender": "male",
+      "name": "Create a PUT request.",
+      "description": "Whenever a user checks a to do list update the JSON that it is completed.\r\n",
+      "registered": "2016-03-26T01:51:04 -02:00"
+    },
+    {
+      "id": 31,
+      "isCompleted": true,
+      "user": "Stella Francis",
+      "gender": "female",
+      "name": "Include a Delete button.",
+      "description": "When user presses on it, it should send a DELETE request to the mock server.\r\n",
+      "registered": "2018-07-11T02:51:49 -02:00"
+    },
+    {
+      "id": 30,
+      "isCompleted": true,
+      "user": "Augusta Delgado",
+      "gender": "female",
+      "name": "Allow user to add to the list.",
+      "description": "Include an input field and a submit button that sends a POST request to the mock server.\r\n",
+      "registered": "2016-06-17T03:38:08 -02:00"
+    },
+    {
+      "id": 29,
+      "isCompleted": true,
+      "user": "Emily Larsen",
+      "gender": "female",
+      "name": "Sort list by user.",
+      "description": "Create a dropdown list containing users and sort the list based on the choice.\r\n",
+      "registered": "2020-10-04T08:58:20 -02:00"
+    },
+    {
+      "id": 28,
+      "isCompleted": true,
+      "user": "Battle Ryan",
+      "gender": "female",
+      "name": "Include a toggle button.",
+      "description": "The toggle button on shows completed tasks only and off shows all tasks.\r\n",
+      "registered": "2018-11-16T02:59:34 -02:00"
+    },
+    {
+      "id": 27,
+      "isCompleted": false,
+      "user": "Dorothea Richards",
+      "gender": "female",
+      "name": "Make the page look presentable.",
+      "description": "Include CSS to make the page presentable.\r\n",
+      "registered": "2014-05-12T02:23:30 -02:00"
+    },
+    {
+      "id": 26,
+      "isCompleted": false,
+      "user": "Stella Francis",
+      "gender": "male",
+      "name": "Separate responsibilities.",
+      "description": "Create a file for each component and divide the view into smaller components and communicate using props.\r\n",
+      "registered": "2014-08-22T12:20:00 -03:00"
+    },
+    {
+      "id": 25,
+      "isCompleted": false,
+      "user": "Barnett Brown",
+      "gender": "male",
+      "name": "Make the current page different in terms of the style of the page button.",
+      "description": "Sunt cillum ut mollit minim sunt consectetur ipsum quis. Aliqua sunt fugiat proident aliqua nostrud consectetur incididunt cillum aliqua. Esse amet aliqua incididunt laborum est nisi sunt aliquip pariatur qui tempor. Nulla esse est elit incididunt veniam ut eu commodo in pariatur pariatur eiusmod. Laborum elit mollit et fugiat amet. Est sunt consectetur officia est officia labore nostrud in nisi qui nulla officia. Commodo irure eiusmod laborum minim occaecat.\r\n",
+      "registered": "2017-05-24T06:38:56 -02:00"
+    },
+    {
+      "id": 24,
+      "isCompleted": false,
+      "user": "Noelle Hartman",
+      "gender": "female",
+      "name": "Test 5 times.",
+      "description": "Dolore eiusmod amet dolor aliquip eu eu. Nisi sint sit irure excepteur ullamco anim adipisicing ex. Non cillum do est dolore enim quis nisi officia reprehenderit velit sunt laborum sit eu.\r\n",
+      "registered": "2020-02-10T07:51:49 -02:00"
+    },
+    {
+      "id": 23,
+      "isCompleted": false,
+      "user": "Battle Ryan",
+      "gender": "female",
+      "name": "Test No. 1",
+      "description": "Eiusmod cillum esse do dolor ipsum sint veniam reprehenderit elit id voluptate sint. Sit cupidatat reprehenderit elit culpa ad culpa minim dolor irure. Non ad esse ad Lorem culpa Lorem. Amet voluptate officia dolore consectetur minim do ipsum aute eiusmod do do. Aliquip ut consequat consequat labore non sunt. Enim nostrud incididunt in do nisi reprehenderit. Nisi dolor enim magna amet deserunt et nisi enim velit duis.\r\n",
+      "registered": "2017-02-14T01:07:41 -02:00"
+    },
+    {
+      "id": 22,
+      "isCompleted": false,
+      "user": "Amanda Lara",
+      "gender": "female",
+      "name": "Test No. 2.",
+      "description": "Excepteur incididunt excepteur ex quis Lorem tempor mollit irure ullamco deserunt dolor occaecat. Amet cillum duis commodo laboris ut ea cupidatat veniam occaecat id culpa tempor fugiat. Ea reprehenderit consectetur ut magna consectetur excepteur officia pariatur labore id sit pariatur. Fugiat qui anim ea ea eiusmod excepteur eiusmod. Ad nisi eiusmod officia adipisicing officia fugiat.\r\n",
+      "registered": "2022-01-21T08:28:44 -02:00"
+    },
+    {
+      "id": 21,
+      "isCompleted": false,
+      "user": "Lola Bryant",
+      "gender": "female",
+      "name": "Test No. 3.",
+      "description": "Minim anim ullamco dolore irure est. Qui magna in nulla nulla eiusmod officia cupidatat laborum mollit velit sunt aliqua adipisicing. Dolore elit excepteur magna excepteur magna anim labore fugiat sint culpa. Ipsum qui nisi veniam reprehenderit commodo consectetur velit esse. Lorem excepteur magna Lorem aliquip anim adipisicing minim excepteur minim labore aute duis eu laboris. Duis consectetur incididunt veniam excepteur ut.\r\n",
+      "registered": "2018-12-19T01:22:43 -02:00"
+    },
+    {
+      "id": 20,
+      "isCompleted": false,
+      "user": "Barnett Brown",
+      "gender": "female",
+      "name": "Test No. 4",
+      "description": "Elit labore consectetur ad laborum id dolor velit fugiat adipisicing voluptate exercitation. Nulla et consectetur nulla proident anim qui. Cillum fugiat proident ad nulla proident nulla qui. Dolore in Lorem commodo sint adipisicing veniam dolore duis ea ea in aliqua ut ea. Occaecat ipsum magna et non anim ullamco. Amet dolore irure sit minim laborum pariatur esse magna occaecat pariatur.\r\n",
+      "registered": "2014-03-22T07:02:51 -02:00"
+    },
+    {
+      "id": 19,
+      "isCompleted": false,
+      "user": "Bowman Lloyd",
+      "gender": "male",
+      "name": "Test No. 5",
+      "description": "Mollit laboris ea nulla nostrud dolore est culpa in labore cupidatat. Minim quis laborum id velit non ipsum ad do anim magna. Excepteur laborum labore qui ea reprehenderit pariatur laboris id id cillum eiusmod dolore qui do. Mollit consequat fugiat ex proident aute ea enim nostrud aliquip. Labore eu elit velit fugiat in laboris amet quis aliquip cillum amet incididunt. Sit excepteur do exercitation adipisicing ad enim anim ea est.\r\n",
+      "registered": "2014-12-09T02:08:43 -02:00"
+    },
+    {
+      "id": 18,
+      "isCompleted": false,
+      "user": "Barnett Brown",
+      "gender": "female",
+      "name": "Create a Demo video and compress it",
+      "description": "Officia in elit nisi exercitation qui quis adipisicing eiusmod ad enim eu esse sunt. Ea excepteur duis veniam qui dolor occaecat. Amet aliquip tempor fugiat qui ut laborum in quis et. Fugiat consequat minim ea tempor proident.\r\n",
+      "registered": "2015-04-19T03:04:18 -02:00"
+    },
+    {
+      "id": 17,
+      "isCompleted": false,
+      "user": "Nola Nicholson",
+      "gender": "female",
+      "name": "Push the repository containing the 2 projects to git and share the link",
+      "description": "Laboris eu ad minim tempor nostrud excepteur cupidatat non veniam. Laborum tempor consectetur cillum fugiat qui non anim. Quis commodo velit minim fugiat ut Lorem dolore irure magna ut officia deserunt. Eu elit dolore officia sint dolor amet. Ex minim laborum et incididunt nostrud dolore anim dolore non officia. Culpa est Lorem dolore deserunt anim culpa duis ex ea. Et esse nostrud exercitation velit nostrud elit incididunt magna minim occaecat.\r\n",
+      "registered": "2017-11-20T05:45:30 -02:00"
+    },
+    {
+      "id": 16,
+      "isCompleted": false,
+      "user": "Stella Francis",
+      "gender": "male",
+      "name": "Send the email.",
+      "description": "Nulla irure pariatur excepteur qui laborum aute occaecat et culpa non magna. Excepteur consectetur labore ea eu magna sunt ad mollit dolor. In mollit incididunt elit magna veniam sunt eiusmod commodo culpa consequat in. Laborum ipsum pariatur proident aliqua qui mollit voluptate incididunt amet quis commodo eu ut deserunt.\r\n",
+      "registered": "2014-07-15T02:47:27 -02:00"
+    },
+    {
+      "id": 15,
+      "isCompleted": false,
+      "user": "Addie Lancaster",
+      "gender": "female",
+      "name": "Veniam laboris culpa tempor consequat sit Lorem in dolore ut excepteur laborum.",
+      "description": "Do non tempor ea eiusmod. Non reprehenderit laborum id officia nisi tempor sunt et. Et officia laborum irure cillum et irure ad proident. Fugiat irure ullamco aliquip cillum.\r\n",
+      "registered": "2019-11-01T11:28:06 -02:00"
+    },
+    {
+      "id": 14,
+      "isCompleted": true,
+      "user": "Herminia Davenport",
+      "gender": "female",
+      "name": "Veniam cupidatat consequat cupidatat non mollit occaecat.",
+      "description": "Esse incididunt veniam nostrud deserunt duis ex consequat ea pariatur laborum nisi. Culpa officia magna est tempor aute consequat aliqua. Excepteur esse esse ut aliquip eu in commodo fugiat quis magna commodo irure irure deserunt. Eu ex Lorem aliquip nisi et occaecat. Irure incididunt cupidatat esse cupidatat Lorem elit nisi eu officia quis sunt. Sit consectetur sunt deserunt nostrud.\r\n",
+      "registered": "2017-05-17T05:17:13 -02:00"
+    },
+    {
+      "id": 13,
+      "isCompleted": true,
+      "user": "Barnett Brown",
+      "gender": "female",
+      "name": "Reprehenderit cupidatat consectetur aliquip amet nisi velit quis mollit consectetur proident laboris.",
+      "description": "Elit qui incididunt pariatur consectetur aliquip ea adipisicing labore do dolor aliqua dolore officia. Laboris occaecat non officia ut aute sunt. Elit ex ex eu voluptate pariatur in adipisicing.\r\n",
+      "registered": "2022-01-21T05:33:41 -02:00"
+    },
+    {
+      "id": 12,
+      "isCompleted": false,
+      "user": "Fernandez Pace",
+      "gender": "male",
+      "name": "Dolor dolore eiusmod velit ex culpa consectetur et amet sint ex cillum cillum reprehenderit ea.",
+      "description": "Ad irure minim veniam dolor adipisicing aliqua consectetur fugiat culpa sunt. Mollit exercitation fugiat irure eiusmod voluptate. Commodo nostrud aute sunt nulla voluptate non excepteur deserunt do non ullamco ad pariatur. Culpa consectetur incididunt ullamco enim velit sit. Proident proident minim et elit magna dolor aliqua ea.\r\n",
+      "registered": "2020-09-04T10:49:38 -02:00"
+    },
+    {
+      "id": 11,
+      "isCompleted": false,
+      "user": "Stella Francis",
+      "gender": "female",
+      "name": "Consectetur id laboris consectetur aliqua voluptate dolore anim excepteur deserunt deserunt mollit incididunt dolore velit.",
+      "description": "Est et dolore consequat exercitation cupidatat amet nostrud qui. Reprehenderit cillum anim ad nisi anim id cillum ex adipisicing veniam amet anim. Pariatur dolor est excepteur ipsum. Culpa cupidatat tempor nostrud do anim esse dolor nisi voluptate laboris minim amet. Ipsum ut ea eu in laboris exercitation. Ea proident veniam pariatur qui cillum ut nostrud tempor anim quis enim et eu. Lorem voluptate voluptate amet est.\r\n",
+      "registered": "2014-10-29T03:08:26 -02:00"
+    },
+    {
+      "id": 9,
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "Fix the styling",
+      "description": "....",
+      "registered": "2015-05-10T05:30:40 -02:00"
+    },
+    {
+      "id": 8,
+      "user": "Mayar",
+      "isCompleted": true,
+      "gender": "female",
+      "name": "create crud operations",
+      "description": "....",
+      "registered": "2015-05-10T05:30:40 -02:00"
+    },
+    {
+      "id": 7,
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "make sure everything is working",
+      "description": "....",
+      "registered": "2015-05-10T05:30:40 -02:00"
+    },
+    {
+      "id": 6,
+      "user": "Mayar",
+      "isCompleted": true,
+      "gender": "female",
+      "name": "add a delete button",
+      "description": "....",
+      "registered": "2015-05-10T05:30:40 -02:00"
+    },
+    {
+      "id": 5,
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "re do it",
+      "description": "....",
+      "registered": "2015-05-10T05:30:40 -02:00"
+    },
+    {
+      "id": 4,
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "Sort the list by Date",
+      "description": "....",
+      "registered": "2015-05-10T05:30:40 -02:00"
+    },
+    {
+      "id": 3,
+      "user": "Mayar",
+      "isCompleted": true,
+      "gender": "female",
+      "name": "get ISO date format of new tasks",
+      "description": "....",
+      "registered": "2015-05-10T05:30:40 -02:00"
+    },
+    {
+      "id": 2,
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "test that data is saved correctly",
+      "description": "....",
+      "registered": "2022-01-27T14:25:46.627Z"
+    },
+    {
+      "id": 1,
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "sort the to dos by date desc",
+      "description": "....",
+      "registered": "2022-01-27T17:13:02.222Z"
+    },
+    {
+      "id": "36104a19-f2d8-4b75-8ecf-08733e2d3fd4",
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "test the order",
+      "description": "....",
+      "registered": "2022-01-27T17:31:13.436Z"
+    },
+    {
+      "id": "dbfd8e36-f1e3-44d3-9f43-b7235c8a21ab",
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "make the form dissapear when it is submitted",
+      "description": "....",
+      "registered": "2022-01-27T19:59:31.756Z"
+    },
+    {
+      "id": "df2d9c78-984b-4b40-bb89-2bd2ae2ce8db",
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "Create a file for all crud operations",
+      "description": "....",
+      "registered": "2022-01-27T21:20:55.740Z"
+    },
+    {
+      "id": "ab689041-aeaf-4062-a5e0-51104a2b4c50",
+      "user": "Mayar",
+      "isCompleted": false,
+      "gender": "female",
+      "name": "check pages",
+      "description": "....",
+      "registered": "2022-01-27T21:21:24.260Z"
+    },
+    {
+      "id": "5dbc2a2b-8580-4315-a0f5-055caa914c72",
+      "user": "Mayar",
+      "isCompleted": true,
+      "gender": "female",
+      "name": "fix error of outline when submitting",
+      "description": "....",
+      "registered": "2022-01-27T21:22:42.336Z"
+    },
+    {
+      "id": "c5bbf97a-8b6e-4e60-ac59-ad84ceeed4ff",
+      "user": "Mayar",
+      "isCompleted": true,
+      "gender": "female",
+      "name": "Send the email",
+      "description": "....",
+      "registered": "2022-01-27T23:16:15.626Z"
+    }
+  ]
+}
